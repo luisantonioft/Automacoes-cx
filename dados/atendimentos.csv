@@ -1,0 +1,11 @@
+id_atendimento,data,canal,tempo_atendimento_min,resolvido,satisfacao
+1,2025-01-10,chat,4,sim,5
+2,2025-01-10,email,15,nao,2
+3,2025-01-11,chat,7,sim,4
+4,2025-01-11,telefone,12,sim,3
+5,2025-01-12,chat,3,sim,5
+6,2025-01-12,telefone,20,nao,1
+7,2025-01-13,chat,6,sim,4
+8,2025-01-13,email,18,nao,2
+9,2025-01-14,chat,5,sim,5
+10,2025-01-14,telefone,10,sim,3
